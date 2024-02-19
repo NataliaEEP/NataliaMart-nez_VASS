@@ -1,0 +1,135 @@
+FICHAS
+X
+O
+TABLERO
+   |   |   
+---+---+---
+   |   |   
+---+---+---
+   |   |   
+
+PARTIDA
+Empieza jugando X
+   |   |   
+---+---+---
+   |   | X 
+---+---+---
+   |   |   
+
+ Turno: O
+ O |   |   
+---+---+---
+   |   | X 
+---+---+---
+   |   |   
+
+ Turno: X
+ O |   |   
+---+---+---
+   |   | X 
+---+---+---
+   | X |   
+
+ Turno: O
+ O |   | O 
+---+---+---
+   |   | X 
+---+---+---
+   | X |   
+
+ Turno: X
+Casilla [2, 1] ocupada, vuelve a jugar X
+ O |   | O 
+---+---+---
+   |   | X 
+---+---+---
+   | X |   
+
+ Turno: X
+ O |   | O 
+---+---+---
+   |   | X 
+---+---+---
+ X | X |   
+
+ Turno: O
+ O |   | O 
+---+---+---
+ O |   | X 
+---+---+---
+ X | X |   
+
+ Turno: X
+Casilla [0, 2] ocupada, vuelve a jugar X
+ O |   | O 
+---+---+---
+ O |   | X 
+---+---+---
+ X | X |   
+
+ Turno: X
+Casilla [1, 0] ocupada, vuelve a jugar X
+ O |   | O 
+---+---+---
+ O |   | X 
+---+---+---
+ X | X |   
+
+ Turno: X
+Casilla [0, 0] ocupada, vuelve a jugar X
+ O |   | O 
+---+---+---
+ O |   | X 
+---+---+---
+ X | X |   
+
+ Turno: X
+Casilla [2, 0] ocupada, vuelve a jugar X
+ O |   | O 
+---+---+---
+ O |   | X 
+---+---+---
+ X | X |   
+
+ Turno: X
+Casilla [2, 0] ocupada, vuelve a jugar X
+ O |   | O 
+---+---+---
+ O |   | X 
+---+---+---
+ X | X |   
+
+ Turno: X
+Casilla [0, 0] ocupada, vuelve a jugar X
+ O |   | O 
+---+---+---
+ O |   | X 
+---+---+---
+ X | X |   
+
+ Turno: X
+Casilla [1, 0] ocupada, vuelve a jugar X
+ O |   | O 
+---+---+---
+ O |   | X 
+---+---+---
+ X | X |   
+
+ Turno: X
+Casilla [2, 1] ocupada, vuelve a jugar X
+ O |   | O 
+---+---+---
+ O |   | X 
+---+---+---
+ X | X |   
+
+ Turno: X
+ O |   | O 
+---+---+---
+ O |   | X 
+---+---+---
+ X | X | X 
+
+ Turno: O
+Partida terminada
+Ha ganado X
