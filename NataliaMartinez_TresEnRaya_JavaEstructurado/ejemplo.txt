@@ -1,0 +1,40 @@
+   |   |   
+---+---+---
+   |   |   
+---+---+---
+   |   |   
+
+buena jugada
+   |   |   
+---+---+---
+   | X |   
+---+---+---
+   |   |   
+casilla ocupada
+buena jugada
+ O |   |   
+---+---+---
+   | X |   
+---+---+---
+   |   |   
+Aún no hay ganador
+buena jugada
+ O |   |   
+---+---+---
+   | X |   
+---+---+---
+ X |   |   
+buena jugada
+ O | O |   
+---+---+---
+   | X |   
+---+---+---
+ X |   |   
+Aún no hay ganador
+buena jugada
+ O | O | X 
+---+---+---
+   | X |   
+---+---+---
+ X |   |   
+Ha ganado X
